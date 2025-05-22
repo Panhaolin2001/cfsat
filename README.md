@@ -123,3 +123,14 @@ Mean:  0.32051575109155916
 
 
 *NOTE: If you only want to reproduce the main results, please follow the instructions above to run the script. If you want to reproduce the entire technical process, please run the script according to PhaseX_x inside the shell directory.*
+
+## Citing this work
+If you use this work, please cite:
+```bibtex
+@inproceedings{pan2025towards,
+  title={Towards Efficient Compiler Auto-tuning: Leveraging Synergistic Search Spaces},
+  author={Pan, Haolin and Wei, Yuanyu and Xing, Mingjie and Wu, Yanjun and Zhao, Chen},
+  booktitle={Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization},
+  pages={614--627},
+  year={2025}
+}
