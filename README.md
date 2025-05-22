@@ -1,4 +1,4 @@
-# Getting Start Guide
+# 🚀 CFSAT: Compiler Flags Synergistic Auto-Tuning
 
 The following experimental scripts contain **only the experimental procedures and results of the methods** proposed in the paper, and **do not contain the experiments and results of the other techniques compared**.
 
